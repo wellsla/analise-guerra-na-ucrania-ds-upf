@@ -1,9 +1,9 @@
 # Relatório do Projeto de Data Science
 ## Análise das Perdas Militares da Rússia na Guerra da Ucrânia
 
-**Curso:** CCC269 - Data Science 
-**Aluno:** Welliton Slaviero
-**Matrícula:** 178342
+**Curso:** CCC269 - Data Science  
+**Aluno:** Welliton Slaviero  
+**Matrícula:** 178342  
 **Professor:** Prof. Dr. Carlos Amaral Hölbig  
 **Trabalho:** Projeto de Data Science  
 **Data:** Junho de 2025
@@ -16,7 +16,7 @@ Este projeto tem como objetivo analisar as perdas militares da Rússia durante o
 
 ## 2. URL do Projeto no GitHub
 
-Repositório: `https://github.com/analise-guerra-na-ucrania-ds-upf/analise-guerra-ucrania`
+Repositório: https://github.com/wellsla/analise-guerra-na-ucrania-ds-upf
 
 ## 3. Dataset Utilizado
 
